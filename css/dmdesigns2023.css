@@ -799,6 +799,8 @@
 
   .menu-page {
     height: 100svh;
+    padding-left: 10px;
+    padding-right: 10px;
     display: none;
   }
 
